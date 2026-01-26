@@ -5,20 +5,20 @@
 
 ## 📍 Branch Information
 
-### Location Details
+Location Details
 - **Branch Name:** Egaila Branch (العقيلة)
 - **Location:** Al-Bairaq Tower, 2nd Floor, Egaila, Kuwait
 - **Google Maps:** https://maps.app.goo.gl/RWYJX47QXe58USrdA
 - **Phone:** 1822926
 - **Working Hours:** 9 AM - 9 PM (Daily)
 
-### Branch Features
+Branch Features
 - Digital smile preview technology
 - "See your future smile before treatment" service
 - 11 doctors available
 - Comprehensive dental services
 
-### Available Specialties
+Available Specialties
 - General Dentistry
 - Pediatric Dentistry
 - Endodontics (Root Canal)
@@ -33,9 +33,9 @@
 
 ## 👨‍⚕️ Medical Team - Egaila Branch
 
-### 🦷 General Practitioner
+🦷 General Practitioner
 
-#### Dr. Ala'a El-Shahrouri (د. آلاء الشهروري)
+Dr. Ala'a El-Shahrouri (د. آلاء الشهروري)
 - **Role:** General Practitioner
 - **Specialization:** General Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/1733215905674ec6a1536d23.81112223.jpg
@@ -50,9 +50,9 @@
 
 ---
 
-### 👶 Pediatric Dentistry Specialist
+## 👶 Pediatric Dentistry Specialist
 
-#### Dr. Mai Omar (د. مي عمر)
+Dr. Mai Omar (د. مي عمر)
 - **Role:** Pediatric Dentist
 - **Specialization:** Pediatric Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/173122077167305523364637.63039627.jpg
@@ -67,9 +67,9 @@
 
 ---
 
-### 🔬 Endodontists (Root Canal Specialists)
+## 🔬 Endodontists (Root Canal Specialists)
 
-#### Dr. Yousef Abul (د. يوسف أبل)
+Dr. Yousef Abul (د. يوسف أبل)
 - **Role:** Endodontist
 - **Specialization:** Endodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173122320667305ea6e8a378.18695581.jpg
@@ -89,9 +89,7 @@
   - Endodontic retreatment
   - Advanced pain management
 
----
-
-#### Dr. Naren Ramachandran
+Dr. Naren Ramachandran
 - **Role:** Endodontist
 - **Specialization:** Endodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173122293567305d97e7d548.37201896.jpg
@@ -104,9 +102,9 @@
 
 ---
 
-### 📐 Orthodontists (Teeth Alignment Specialists)
+## 📐 Orthodontists (Teeth Alignment Specialists)
 
-#### Dr. Saitah Al-Ajami (د. سيتاح العجمي)
+Dr. Saitah Al-Ajami (د. سيتاح العجمي)
 - **Role:** Orthodontist
 - **Specialization:** Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173856895467a074fadcb563.74085087.jpg
@@ -119,9 +117,7 @@
   - Orthognathic treatments
   - Digital journey technology
 
----
-
-#### Dr. Ayman Al-Ammar (د. أيمن العمار)
+Dr. Ayman Al-Ammar (د. أيمن العمار)
 - **Role:** Orthodontist
 - **Specialization:** Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/1731220662673054b6d922e8.66163490.jpg
@@ -133,9 +129,7 @@
   - Orthognathic treatments
   - Digital journey technology
 
----
-
-#### Dr. Nasser Al-Amiri (د. ناصر العميري) ⭐ Invisalign Platinum Provider
+Dr. Nasser Al-Amiri (د. ناصر العميري) ⭐ Invisalign Platinum Provider
 - **Role:** Orthodontist
 - **Specialization:** Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173122301367305de5762f40.21470428.jpg
@@ -163,9 +157,9 @@
 
 ---
 
-### 🏗️ Prosthodontist (Dental Prosthetics & Restorations)
+## 🏗️ Prosthodontist (Dental Prosthetics & Restorations)
 
-#### Dr. Faisal Al-Rashedi (د. فيصل الرشيدي)
+Dr. Faisal Al-Rashedi (د. فيصل الرشيدي)
 - **Role:** Prosthodontist
 - **Specialization:** Prosthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/1731220563673054535c6360.95847172.jpg
@@ -180,9 +174,9 @@
 
 ---
 
-### 🌿 Periodontist & Implantologist (Gum Disease & Implants)
+## 🌿 Periodontist & Implantologist (Gum Disease & Implants)
 
-#### Dr. Abdulrahman Al-Hemeli (د. عبدالرحمن الحميلي)
+Dr. Abdulrahman Al-Hemeli (د. عبدالرحمن الحميلي)
 - **Role:** Periodontist & Implantologist
 - **Specialization:** Periodontics, Implantology
 - **Profile Image:** https://admin.bayandental.com/uploads/173122267267305c90798e59.13443091.jpg
@@ -206,9 +200,9 @@
 
 ---
 
-### 💎 Cosmetic Dentistry Specialist
+## 💎 Cosmetic Dentistry Specialist
 
-#### Dr. Ali Majeki (د. علي مجكي)
+Dr. Ali Majeki (د. علي مجكي)
 - **Role:** Cosmetic Dentistry Consultant
 - **Specialization:** Cosmetic Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/173856795467a07112d820a4.28722607.jpg
@@ -223,9 +217,9 @@
 
 ---
 
-### ⚕️ Oral Surgery Specialist
+## ⚕️ Oral Surgery Specialist
 
-#### Dr. Ahmad Dashti (د. أحمد دشتي)
+Dr. Ahmad Dashti (د. أحمد دشتي)
 - **Role:** Oral Maxillofacial Surgeon
 - **Specialization:** Oral Surgery, Maxillofacial Surgery
 - **Profile Image:** https://admin.bayandental.com/uploads/173122224367305ae38b2593.90005314.jpg
@@ -240,7 +234,7 @@
 
 ## 🦷 Services Available at Egaila Branch
 
-### Orthodontics (تقويم الأسنان)
+Orthodontics (تقويم الأسنان)
 - Invisalign clear aligners ⭐ Platinum Provider
 - Traditional metal braces
 - Ceramic braces
@@ -249,7 +243,7 @@
 - Digital journey technology
 - See your future smile before treatment
 
-### Cosmetic Dentistry (تجميل الأسنان)
+Cosmetic Dentistry (تجميل الأسنان)
 - Smile makeovers
 - Veneers (قشور)
 - Teeth whitening (تبييض)
@@ -258,7 +252,7 @@
 - Digital smile preview technology ⭐
 - Before/after visualization
 
-### General Dentistry (طب الأسنان العام)
+General Dentistry (طب الأسنان العام)
 - Routine dental checkups
 - Teeth cleaning and scaling
 - Cavity fillings
@@ -266,7 +260,7 @@
 - Preventive care
 - Consultation & Diagnosis
 
-### Dental Implants (زراعة الأسنان)
+Dental Implants (زراعة الأسنان)
 - Single tooth implants
 - Full arch implants
 - Implant-supported dentures
@@ -274,7 +268,7 @@
 - Surgical extractions
 - 15+ years experience specialist
 
-### Prosthodontics (التركيبات)
+Prosthodontics (التركيبات)
 - Dental crowns and bridges
 - Complete dentures
 - Partial dentures
@@ -282,7 +276,7 @@
 - Restoring teeth
 - Comprehensive treatment planning
 
-### Endodontics (علاج الجذور)
+Endodontics (علاج الجذور)
 - Root canal treatments
 - Treatment of dental nerve inflammation
 - Dental trauma treatments
@@ -291,14 +285,14 @@
 - 20+ years experience specialist
 - American Board certified
 
-### Periodontics (أمراض اللثة)
+Periodontics (أمراض اللثة)
 - Diagnosis and treatment of periodontic diseases
 - Gum graft surgery
 - Dental crown lengthening
 - Treatment of gum disease
 - Non-surgical gum treatments
 
-### Pediatric Dentistry (طب أسنان الأطفال)
+Pediatric Dentistry (طب أسنان الأطفال)
 - Children's dental checkups
 - Cavity prevention and treatment
 - Early orthodontic assessment (age 7)
@@ -306,7 +300,7 @@
 - Fluoride treatments
 - Dental sealants
 
-### Oral Surgery (جراحة الفم والفكين)
+Oral Surgery (جراحة الفم والفكين)
 - Surgical extractions
 - Wisdom teeth removal
 - Jaw surgery
@@ -317,14 +311,14 @@
 
 ## 🌟 Branch Highlights
 
-### Specializations
+Specializations
 - **Digital Smile Preview Technology:** See your future smile before treatment ⭐
 - **Invisalign Platinum Provider:** Dr. Nasser Al-Amiri
 - **American Board Certified Endodontist:** Dr. Yousef Abul (20+ years)
 - **Virginia University Graduate:** Dr. Abdulrahman Al-Hemeli (Implants)
 - **11 Specialized Doctors:** Comprehensive team coverage
 
-### Technology & Equipment
+Technology & Equipment
 - Digital smile preview technology
 - "See your future smile before treatment" service
 - Digital journey for orthodontics
@@ -332,7 +326,7 @@
 - Modern sterilization protocols
 - Canadian Gold Accreditation standards
 
-### Patient Experience
+Patient Experience
 - Convenient location in Al-Bairaq Tower, 2nd Floor
 - Punctual appointments
 - Clean facilities
@@ -341,7 +335,7 @@
 - Price estimates before treatment
 - Bilingual staff (Arabic & English)
 
-### Patient Testimonials
+Patient Testimonials
 - **al72neenq8:** *"Praised Dr. Alaa's work. Punctual appointments. Clean facilities. Genuine patient care."*
 
 ---

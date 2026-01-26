@@ -5,20 +5,20 @@
 
 ## 📍 Branch Information
 
-### Location Details
+Location Details
 - **Branch Name:** Sharq Branch (الشرق)
 - **Location:** Al Hamra Tower, Sharq, Kuwait City
 - **Google Maps:** https://maps.app.goo.gl/ToHzMwuhZRprinyH7
 - **Phone:** 1822926
 - **Working Hours:** 9 AM - 9 PM (Daily)
 
-### Branch Features
+Branch Features
 - Full dental services
 - Multiple specialists on-site
 - 12 doctors available
 - Most comprehensive range of specialists
 
-### Available Specialties
+Available Specialties
 - General Dentistry
 - Pediatric Dentistry
 - Endodontics (Root Canal)
@@ -33,9 +33,9 @@
 
 ## 👨‍⚕️ Medical Team - Sharq Branch
 
-### 🦷 General Practitioners
+🦷 General Practitioners
 
-#### Dr. Hussein Irhama (د. حسين ارحامة)
+Dr. Hussein Irhama (د. حسين ارحامة)
 - **Role:** General Practitioner
 - **Specialization:** General Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/1731221554673058326f4973.27567673.jpg
@@ -47,9 +47,7 @@
   - Preventive care
   - Consultation & Diagnosis
 
----
-
-#### Dr. Ahmad Al-Sahli (د. أحمد الصاحلي)
+Dr. Ahmad Al-Sahli (د. أحمد الصاحلي)
 - **Role:** General Practitioner
 - **Specialization:** General Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/173122208267305a42290350.43415977.jpg
@@ -63,9 +61,9 @@
 
 ---
 
-### 👶 Pediatric Dentistry Specialist
+## 👶 Pediatric Dentistry Specialist
 
-#### Dr. George Aouad (د. جورج عواد)
+Dr. George Aouad (د. جورج عواد)
 - **Role:** Pediatric Dentist
 - **Specialization:** Pediatric Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/1731221963673059cbe28449.71549744.jpg
@@ -81,9 +79,9 @@
 
 ---
 
-### 🔬 Endodontist (Root Canal Specialist)
+## 🔬 Endodontist (Root Canal Specialist)
 
-#### Dr. Jasem Asad (د. جاسم أسعد)
+Dr. Jasem Asad (د. جاسم أسعد)
 - **Role:** Endodontist
 - **Specialization:** Endodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173122274667305cdab149d9.78809205.jpg
@@ -96,9 +94,9 @@
 
 ---
 
-### 📐 Orthodontists (Teeth Alignment Specialists)
+## 📐 Orthodontists (Teeth Alignment Specialists)
 
-#### Dr. Mohammed Al-Yaseen (د. محمد الياسين) ⭐ Invisalign Platinum Provider
+Dr. Mohammed Al-Yaseen (د. محمد الياسين) ⭐ Invisalign Platinum Provider
 - **Role:** Orthodontist
 - **Specialization:** Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173122284367305d3b83e454.21131649.jpg
@@ -125,9 +123,7 @@
   - Orthognathic treatments
   - Digital journey technology
 
----
-
-#### Dr. Mohammed Al-Kandari (د. محمد الكندري)
+Dr. Mohammed Al-Kandari (د. محمد الكندري)
 - **Role:** Orthodontist
 - **Specialization:** Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173121937267304faca6f3c3.41506635.jpg
@@ -142,9 +138,9 @@
 
 ---
 
-### 🏗️ Prosthodontists (Dental Prosthetics & Restorations)
+## 🏗️ Prosthodontists (Dental Prosthetics & Restorations)
 
-#### Dr. Hanan Arti (د. حنان آرتي) ⭐ Most Featured Specialist
+Dr. Hanan Arti (د. حنان آرتي) ⭐ Most Featured Specialist
 - **Role:** Prosthodontist
 - **Specialization:** Prosthodontics, Cosmetic Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/1731220447673053df1f84c8.15783408.jpg
@@ -175,9 +171,7 @@
   - Complete & partial dentures
   - Comprehensive treatment planning
 
----
-
-#### Dr. Yaqoub Al-Tarakmah (د. يعقوب الطراكمة)
+Dr. Yaqoub Al-Tarakmah (د. يعقوب الطراكمة)
 - **Role:** Prosthodontist
 - **Specialization:** Prosthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173122312267305e52b5eb06.35761018.jpg
@@ -206,9 +200,7 @@
   - Comprehensive treatment planning
   - Restoring teeth
 
----
-
-#### Dr. Waleed Al-Yaseen (د. وليد الياسين)
+Dr. Waleed Al-Yaseen (د. وليد الياسين)
 - **Role:** Prosthodontist
 - **Specialization:** Prosthodontics, Dental Implants
 - **Profile Image:** https://admin.bayandental.com/uploads/173121889667304dd0b67ac0.30457621.jpg
@@ -244,9 +236,9 @@
 
 ---
 
-### 🌿 Periodontist & Implantologist (Gum Disease & Implants)
+## 🌿 Periodontist & Implantologist (Gum Disease & Implants)
 
-#### Dr. Salim Aleaql (د. سالم العقل)
+Dr. Salim Aleaql (د. سالم العقل)
 - **Role:** Periodontist & Implantologist
 - **Specialization:** Periodontics, Implantology
 - **Profile Image:** https://admin.bayandental.com/uploads/1731412416673341c03eb809.97666919.jpg
@@ -259,9 +251,7 @@
   - Dental crown lengthening
   - Treatment of gum disease
 
----
-
-#### Dr. Ahmad Kamal (د. أحمد كمال)
+Dr. Ahmad Kamal (د. أحمد كمال)
 - **Role:** Periodontist & Implantologist / Orthodontist
 - **Specialization:** Periodontics, Implantology, Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/17324308606742cc0c579b67.68802684.jpg
@@ -277,9 +267,9 @@
 
 ---
 
-### 💎 Cosmetic Dentistry Specialist
+## 💎 Cosmetic Dentistry Specialist
 
-#### Dr. Ali Majeki (د. علي مجكي)
+Dr. Ali Majeki (د. علي مجكي)
 - **Role:** Cosmetic Dentistry Consultant
 - **Specialization:** Cosmetic Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/173856795467a07112d820a4.28722607.jpg
@@ -296,7 +286,7 @@
 
 ## 🦷 Services Available at Sharq Branch
 
-### Orthodontics (تقويم الأسنان)
+Orthodontics (تقويم الأسنان)
 - Traditional metal braces
 - Ceramic braces
 - Invisalign clear aligners ⭐ Platinum Provider
@@ -305,7 +295,7 @@
 - Early detection examination (age 7)
 - Digital journey technology
 
-### Cosmetic Dentistry (تجميل الأسنان)
+Cosmetic Dentistry (تجميل الأسنان)
 - Smile makeovers
 - Veneers (قشور)
 - Teeth whitening (تبييض)
@@ -314,7 +304,7 @@
 - Arti Smile transformations
 - Digital smile preview technology
 
-### General Dentistry (طب الأسنان العام)
+General Dentistry (طب الأسنان العام)
 - Routine dental checkups
 - Teeth cleaning and scaling
 - Cavity fillings
@@ -322,14 +312,14 @@
 - Preventive care
 - Consultation & Diagnosis
 
-### Dental Implants (زراعة الأسنان)
+Dental Implants (زراعة الأسنان)
 - Single tooth implants
 - Full arch implants
 - Implant-supported dentures
 - Bone grafting procedures
 - Surgical extractions
 
-### Prosthodontics (التركيبات)
+Prosthodontics (التركيبات)
 - Dental crowns and bridges
 - Complete dentures
 - Partial dentures
@@ -337,20 +327,20 @@
 - Restoring teeth
 - Comprehensive treatment planning
 
-### Endodontics (علاج الجذور)
+Endodontics (علاج الجذور)
 - Root canal treatments
 - Treatment of dental nerve inflammation
 - Dental trauma treatments
 - Endodontic retreatment
 
-### Periodontics (أمراض اللثة)
+Periodontics (أمراض اللثة)
 - Diagnosis and treatment of periodontic diseases
 - Gum graft surgery
 - Dental crown lengthening
 - Treatment of gum disease
 - Non-surgical gum treatments
 
-### Pediatric Dentistry (طب أسنان الأطفال)
+Pediatric Dentistry (طب أسنان الأطفال)
 - Children's dental checkups
 - Cavity prevention and treatment
 - Early orthodontic assessment (age 7)
@@ -358,7 +348,7 @@
 - Fluoride treatments
 - Dental sealants
 
-### Oral Surgery (جراحة الفم والفكين)
+Oral Surgery (جراحة الفم والفكين)
 - Surgical extractions
 - Wisdom teeth removal
 - Jaw surgery
@@ -368,21 +358,21 @@
 
 ## 🌟 Branch Highlights
 
-### Specializations
+Specializations
 - **Most Comprehensive:** Largest team with 12 doctors
 - **Full Service Range:** All dental specialties available
 - **Invisalign Platinum Provider:** Dr. Mohammed Al-Yaseen
 - **Arti Smile:** Dr. Hanan Arti's signature transformations
 - **American Board Certified:** Multiple specialists
 
-### Technology & Equipment
+Technology & Equipment
 - Latest dental equipment
 - Digital journey technology
 - Advanced pain management
 - Modern sterilization protocols
 - Canadian Gold Accreditation standards
 
-### Patient Experience
+Patient Experience
 - Convenient location in Al Hamra Tower
 - Multiple specialists available daily
 - Transparent treatment plans

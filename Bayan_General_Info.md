@@ -1,23 +1,20 @@
-# Bayan Dental Center - General Information
-**بيان لطب الأسنان - المعلومات العامة**
 
----
 
 ## 🏢 Clinic Overview
 
-### Basic Information
-- **Name (English):** Bayan Dental Center
-- **Name (Arabic):** بيان لطب الأسنان
-- **Founded:** 2002
-- **Years of Service:** 23+ years
-- **Tagline:** One of the first private dental clinics in Kuwait
-- **Instagram:** [@bayandental](https://www.instagram.com/bayandental/) ✓ Verified
+**Name (English):** Bayan Dental Center
+**Name (Arabic):** بيان لطب الأسنان
+**Founded:** 2002 | **Years of Service:** 23+ years
+**Tagline:** One of the first private dental clinics in Kuwait
+
+**Contact Information:**
 - **Phone:** 1822926
 - **Email:** info@bayandental.com
 - **Website:** bayandental.com
-- **Working Hours:** 9 AM - 9 PM (Daily)
+- **Instagram:** [@bayandental](https://www.instagram.com/bayandental/) ✓ Verified
+- **Working Hours:** 9 AM - 9 PM (Daily, all branches)
 
-### Description
+**Description:**
 
 **English:** Bayan Dental Center is Kuwait's pioneering dental healthcare provider, established in 2002 as one of the first private dental clinics in the country. With over 23 years of excellence, we offer comprehensive patient-focused care using the latest dental technologies and cutting-edge techniques. Our team of 30+ specialists across 4 branches ensures exceptional service for patients of all ages.
 
@@ -27,599 +24,180 @@
 
 ## 📍 Branches Overview
 
-### 1. Sharq Branch (الشرق)
-- **Location:** Al Hamra Tower, Sharq, Kuwait City
-- **Google Maps:** https://maps.app.goo.gl/ToHzMwuhZRprinyH7
-- **Phone:** 1822926
-- **Working Hours:** 9 AM - 9 PM
-- **Doctors:** 12 doctors available
-- **Available Specialties:** General Dentistry, Pediatric Dentistry, Endodontics, Orthodontics, Prosthodontics, Periodontics, Implantology, Cosmetic Dentistry, Oral Surgery
+**4 Branches Across Kuwait | 40+ Doctors | 9 AM - 9 PM Daily**
 
-### 2. Salmiya Branch (السالمية) ⭐ Recently Renovated
-- **Location:** Salmiya, Kuwait
-- **Google Maps:** https://maps.app.goo.gl/jGuEBKk5oFmwidm46
-- **Phone:** 1822926
-- **Working Hours:** 9 AM - 9 PM
-- **Status:** Recently renovated with modern facilities
-- **Doctors:** 10 doctors available
-- **Medical Director:** Dr. Samer Khaddour
-- **Available Specialties:** General Dentistry, Endodontics, Orthodontics, Prosthodontics, Periodontics, Implantology, Aesthetic Dentistry, Oral Surgery
+| Branch | Location | Key Features | Doctors |
 
-### 3. Egaila Branch (العقيلة)
-- **Location:** Al-Bairaq Tower, 2nd Floor, Egaila, Kuwait
-- **Google Maps:** https://maps.app.goo.gl/RWYJX47QXe58USrdA
-- **Phone:** 1822926
-- **Working Hours:** 9 AM - 9 PM
-- **Doctors:** 11 doctors available
-- **Special Feature:** Digital smile preview technology
-- **Available Specialties:** General Dentistry, Pediatric Dentistry, Endodontics, Orthodontics, Prosthodontics, Periodontics, Implantology, Cosmetic Dentistry, Oral Surgery
+| **Sharq** (الشرق) | Al Hamra Tower | Most comprehensive, all specialties | 12 |
+| **Salmiya** (السالمية) | Salmiya | Recently renovated, digital journey | 10 |
+| **Egaila** (العقيلة) | Al-Bairaq Tower | Digital smile preview technology | 11 |
+| **Jahra** (الجهراء) | Jahra | Implant & surgery specialists | 7 |
 
-### 4. Jahra Branch (الجهراء)
-- **Location:** Jahra, Kuwait
-- **Google Maps:** https://maps.app.goo.gl/4sHd2t8n1yNHzpW9A
-- **Phone:** 1822926
-- **Working Hours:** 9 AM - 9 PM
-- **Doctors:** 7 doctors available
-- **Specialization:** Implant and surgery specialists
-- **Available Specialties:** General Dentistry, Pediatric Dentistry, Orthodontics, Prosthodontics, Implantology
+**Phone (All Branches):** 1822926
+**Working Hours (All Branches):** 9 AM - 9 PM Daily
+
+*For detailed branch information, doctor profiles, and Google Maps links, refer to individual branch KB files.*
 
 ---
 
-## 🏆 Certifications & Accreditations
+## 🏆 Certifications, Core Values & Features
 
-### Canadian Gold Accreditation
-- **Name (Arabic):** الاعتماد الكندي الذهبي
-- **Significance:** Highest standard of quality assurance
-- **Impact:** Every step of patient journey is studied with exceptional standards
-- **Description:** Bayan Dental is proud to hold the Canadian Gold Accreditation, ensuring that each aspect of patient care meets internationally recognized benchmarks for safety, quality, and professionalism.
+**Canadian Gold Accreditation (الاعتماد الكندي الذهبي)**
+- Highest standard of quality assurance
+- Every step of patient journey meets internationally recognized benchmarks for safety, quality, and professionalism
 
----
+**Core Values:**
 
-## 💎 Core Values & Features
-
-### 1. Modern Technology
+**1. Modern Technology**
 - Latest dental equipment and technology
 - Digital journey for orthodontics
 - Digital smile preview technology
 - Modern clinic facilities across all branches
 - Cutting-edge treatment techniques
 
-### 2. Quality & Professionalism
+**2. Quality & Professionalism**
 - High-quality materials in all treatments
 - Ongoing staff training and development
-- High professional standards
-- Canadian Gold Accreditation
+- Canadian Gold Accreditation standards
 - 30+ specialized doctors
 - American Board certified specialists available
 
-### 3. Patient Care Excellence
+**3. Patient Care Excellence**
 - Individual consideration for each patient
-- Transparent treatment plans
-- Price estimates provided before treatment
+- Transparent treatment plans with price estimates before treatment
 - Focus on exceptional patient experience
 - Building trust through long-term relationships
 - Multi-generational patient loyalty (23+ years)
 - Comfortable, pain-free treatments
 
-### 4. Social Responsibility
-- **"Good Neighbor" Program**
-- Focus on charitable initiatives in local area
-- Community engagement
-- Health awareness campaigns
+**4. Social Responsibility**
+- **"Good Neighbor" Program** - charitable initiatives in local area
+- Community engagement and health awareness campaigns
 
 ---
 
 ## 🦷 Services Offered
 
-### 1. Orthodontics (تقويم الأسنان)
+**9 Comprehensive Dental Specialties**
 
-**Description:** Teeth alignment and jaw correction treatments
-
-**Services Include:**
-- Traditional metal braces
-- Ceramic braces
-- Clear aligners / Invisalign
-- Lingual orthodontics
-- Orthognathic (corrective jaw) treatments
-- Early detection examination (age 7)
-
-**Special Features:**
-- ⭐ Invisalign Platinum Providers
-- Digital journey technology
-- See your future smile before treatment
-- Free consultations during Orthodontics Month
-
-**Keywords:** تقويم، تقويم شفاف، braces, clear aligners, orthodontic, invisalign, تقويم معدني، تقويم خزفي
-
----
-
-### 2. Cosmetic Dentistry (تجميل الأسنان)
-
-**Description:** Smile enhancement and aesthetic dental procedures
-
-**Services Include:**
-- Smile makeovers
-- Veneers (قشور)
-- Teeth whitening (تبييض)
-- Gum contouring
-- Cosmetic fillings
-- Arti Smile transformations
+| Service | Arabic | Key Offerings | Keywords |
+|---------|--------|---------------|----------|
+| **Orthodontics** | تقويم الأسنان | Invisalign (Platinum Providers), Metal/Ceramic braces, Digital journey | تقويم، تقويم شفاف، braces, invisalign |
+| **Cosmetic Dentistry** | تجميل الأسنان | Veneers, Whitening, Smile makeovers, Arti Smile | تجميل، تبييض، veneers, قشور |
+| **General Dentistry** | طب الأسنان العام | Checkups, Cleaning, Fillings, Preventive care | تنظيف، حشوات، فحص، cleaning |
+| **Dental Implants** | زراعة الأسنان | Single/Full arch implants, Bone grafting, 20+ years experience | زراعة، implant, implants |
+| **Prosthodontics** | التركيبات | Crowns, Bridges, Dentures, American Board certified | تركيبات، crowns, bridges, dentures |
+| **Endodontics** | علاج الجذور | Root canals, Nerve treatment, American Board certified | علاج الجذور، عصب، root canal |
+| **Periodontics** | أمراض اللثة | Gum disease treatment, Gum surgery, Laser therapy | لثة، periodontics, gum disease |
+| **Pediatric Dentistry** | طب أسنان الأطفال | Child-friendly care, Early detection (age 7) | أطفال، pediatric, children, kids |
+| **Oral Surgery** | جراحة الفم | Extractions, Wisdom teeth, Jaw surgery | جراحة، oral surgery, extraction, خلع |
 
 **Special Features:**
+- ⭐ Invisalign Platinum Providers (Dr. Mohammed Al-Yaseen, Dr. Nasser Al-Amiri)
 - Digital smile preview technology
-- Before/after visualization
-- Canadian Gold Accreditation standards
-
-**Keywords:** تجميل، ابتسامة، تبييض، cosmetic, smile makeover, whitening, veneers, قشور
-
----
-
-### 3. General Dentistry (طب الأسنان العام)
-
-**Description:** Routine dental care and preventive treatments
-
-**Services Include:**
-- Routine dental checkups
-- Teeth cleaning and scaling
-- Cavity fillings
-- Gum care
-- Preventive care
-- Consultation & Diagnosis
-
-**Special Features:**
-- Pain-free comfortable cleaning
-- Transparent treatment plans
-- Price estimates before treatment
-
-**Keywords:** تنظيف، حشوات، فحص، cleaning, checkup, fillings, general, عام
-
----
-
-### 4. Dental Implants (زراعة الأسنان)
-
-**Description:** Permanent tooth replacement solutions
-
-**Services Include:**
-- Single tooth implants
-- Full arch implants
-- Implant-supported dentures
-- Bone grafting procedures
-- Surgical extractions
-
-**Special Features:**
 - American Board certified specialists
-- 20+ years experience available
-- Advanced surgical techniques
+- Canadian Gold Accreditation standards
+- 20+ years experience in multiple specialties
 
-**Keywords:** زراعة، implant, implants, bone graft
-
----
-
-### 5. Prosthodontics (التركيبات)
-
-**Description:** Dental prosthetics and restorations
-
-**Services Include:**
-- Dental crowns and bridges
-- Complete dentures
-- Partial dentures
-- Implant-supported prosthetics
-- Restoring teeth
-- Comprehensive treatment planning
-
-**Special Features:**
-- Fellowship qualified specialists
-- High-quality materials
-- American Board certified options
-
-**Keywords:** تركيبات، prosthodontics, crowns, bridges, dentures, تيجان، جسور
-
----
-
-### 6. Endodontics (علاج الجذور)
-
-**Description:** Root canal treatments and dental nerve care
-
-**Services Include:**
-- Root canal treatments
-- Treatment of dental nerve inflammation
-- Dental trauma treatments
-- Endodontic retreatment
-
-**Special Features:**
-- 20+ years experience specialists
-- American Board certified
-- Advanced pain management
-
-**Keywords:** علاج الجذور، عصب، root canal, endodontics, nerve
-
----
-
-### 7. Periodontics (أمراض اللثة)
-
-**Description:** Gum disease treatment and gum surgery
-
-**Services Include:**
-- Diagnosis and treatment of periodontic diseases
-- Gum graft surgery
-- Dental crown lengthening
-- Treatment of gum disease
-- Non-surgical gum treatments
-
-**Special Features:**
-- 15+ years experience
-- Laser therapy available
-- Minimally invasive techniques
-
-**Keywords:** لثة، أمراض اللثة، periodontics, gum disease, gum surgery
-
----
-
-### 8. Pediatric Dentistry (طب أسنان الأطفال)
-
-**Description:** Specialized dental care for children
-
-**Services Include:**
-- Children's dental checkups
-- Cavity prevention and treatment
-- Early orthodontic assessment (age 7)
-- Pediatric extractions
-- Fluoride treatments
-- Dental sealants
-
-**Special Features:**
-- Child-friendly environment
-- Gentle care approach
-- Early detection programs
-- "Early detection = Timely correction" philosophy
-
-**Keywords:** أطفال، pediatric, children, kids
-
----
-
-### 9. Oral Surgery (جراحة الفم والفكين)
-
-**Description:** Surgical dental procedures
-
-**Services Include:**
-- Surgical extractions
-- Wisdom teeth removal
-- Jaw surgery
-- Oral maxillofacial surgery
-- Dental trauma surgery
-
-**Special Features:**
-- Maxillofacial surgeon available
-- Advanced surgical techniques
-- Pain management protocols
-
-**Keywords:** جراحة، oral surgery, extraction, wisdom teeth, خلع
+*For detailed service descriptions and availability by branch, refer to individual branch KB files.*
 
 ---
 
 ## 💳 Insurance & Financing
 
-### Insurance Coverage
+**Insurance Coverage:** We accept **35+ insurance providers** across Kuwait
 
-We accept **35+ insurance providers** across Kuwait:
+**Major Networks:**
+- **Al-Ahleia:** Al-Ahleia Insurance Company
+- **MetLife:** MetLife / MedNet
+- **GIG (Gulf Insurance Group):** KPC, EQUATE, FAY, Heston
+- **WAPMED (7 providers):** Oriental Insurance Co., GBG, National Life & General Insurance Co., HEALTH 360, KIB, Warba Insurance Co., Allianz Care
+- **GlobeMed (18 providers):** Boubyan Takaful, T'azur Taakful, KFH Takaful, Enaya, Gulf Insurance & Re-Insurance, BUPA Arabia, GIG Takaful Unit/Elite, Kuwait Insurance Co., National Life & General, National Takaful, ZAIN, Gulf Takaful, Kuwait Bahrain Insurance, AlKoot Insurance, Arabia Insurance, Al-Hilal Takaful, Ilaf Takaful
+- **NAS (3 providers):** Kuwait Qatar Insurance Co., Qatar Insurance Co., Boubyan Takaful
+- **Other:** Saudi Arabian Cooperative Insurance Co., Kuwait Insurance Co.
 
-#### Al-Ahleia
-- Al-Ahleia Insurance Company
-
-#### MetLife
-- MetLife / MedNet
-
-#### GIG (Gulf Insurance Group)
-- GIG – KPC
-- GIG – EQUATE
-- GIG – FAY
-- GIG – Heston
-
-#### WAPMED
-- WAPMED – Oriental Insurance Co.
-- WAPMED - GLOBAL BENEFITS GROUP (GBG)
-- WAPMED – National Life & General Insurance Co.
-- WAPMED – HEALTH 360
-- WAPMED – KIB
-- WAPMED - Warba Insurance Co.
-- WAPMED - Allianz Care
-
-#### GlobeMed (18 providers)
-- GlobeMed – Boubyan Takaful Insurance Co.
-- GlobeMed - T'azur Taakful Insurance Co.
-- GlobeMed – KFH Takaful Insurance
-- GlobeMed – Enaya Insurance Co.
-- GlobeMed – Gulf Insurance & Re-Insurance Co.
-- GlobeMed – BUPA Arabia Medical Insurance
-- GlobeMed – GIG Takaful Unit / Elite
-- GlobeMed - Kuwait Insurance Co.
-- GlobeMed – National Life & General Insurance Co.
-- GlobeMed – National Takaful Insurance Co.
-- GlobeMed – ZAIN
-- GlobeMed – Gulf Takaful Insurance Co.
-- GlobeMed - Kuwait Bahrain Insurance Co.
-- GlobeMed – AlKoot Insurance & Reinsurance Co.
-- GlobeMed – Arabia Insurance Co.
-- GlobeMed – Al-Hilal Takaful Insurance Co.
-- GlobeMed - Ilaf Takaful Insurance Co.
-
-#### NAS
-- NAS – Kuwait Qatar Insurance Co.
-- NAS – Qatar Insurance Co.
-- NAS – Boubyan Takaful Insurance Co.
-
-#### Other Providers
-- Saudi Arabian Cooperative Insurance Co.
-- Kuwait Insurance Co.
-
-### Financing Solutions
-
-**Partner:** Warba Bank
-
-**Offer:** 0% Interest Financing
-
-**Details:**
+**Financing Solutions - Warba Bank Partnership**
+- **0% Interest Financing**
 - **Amount Range:** KD 1,000 to KD 15,000
 - **Repayment Period:** 1 to 5 years
-- **Interest Rate:** 0%
 
-**Description (English):** At Bayan Dental, we work with Warba Bank to offer flexible financing solutions. We provide 0% interest financing for amounts ranging from KD 1,000 to KD 15,000, with repayment periods from 1 to 5 years.
+**English:** At Bayan Dental, we work with Warba Bank to offer flexible 0% interest financing for amounts ranging from KD 1,000 to KD 15,000, with repayment periods from 1 to 5 years.
 
-**Description (Arabic):** في بيان لطب الأسنان، نعمل مع بنك وربة لتوفير حلول تمويل مرنة. نوفر تمويل بدون فوائد بمبالغ تتراوح من 1,000 د.ك إلى 15,000 د.ك، مع فترات سداد من 1 إلى 5 سنوات.
-
----
-
-## 💬 Patient Testimonials
-
-### Google Reviews
-
-#### ⭐⭐⭐⭐⭐ aljamela 1984
-*"10+ years experience with the clinic. Satisfied with veneers treatment. Receives compliments on smile."*
-
-**Service:** Veneers  
-**Theme:** Long-term loyalty
-
----
-
-#### ⭐⭐⭐⭐⭐ daleela alqahtani
-*"Praised dental cleaning specialists. Positive experience with tooth removal. Appreciates staff patience. Comfortable clinic environment."*
-
-**Services:** Dental Cleaning, Extraction  
-**Theme:** Staff quality and professionalism
-
----
-
-#### ⭐⭐⭐⭐ north__star86
-*"Special mention of Dr. George (pediatric dentist). Considers team highly professional."*
-
-**Doctor Mentioned:** Dr. George Aouad  
-**Theme:** Pediatric excellence
-
----
-
-#### ⭐⭐⭐⭐ al72neenq8
-*"Praised Dr. Alaa's work. Punctual appointments. Clean facilities. Genuine patient care."*
-
-**Doctor Mentioned:** Dr. Ala'a El-Shahrouri  
-**Theme:** Professionalism and cleanliness
-
----
-
-### Instagram Testimonials
-
-#### @manalkashto
-**Arabic:** *"أنا وولادي صارلنا ٢٣ سنة منتعالج ببيان السالمية يعني عمر عنجد وذكريات"*
-
-**English:** *"My children and I have been treating at Bayan Salmiya for 23 years - a lifetime of memories"*
-
-**Branch:** Salmiya  
-**Theme:** Multi-generational loyalty
-
----
-
-#### @ealessaa
-**Arabic:** *"احبكممم اراجع العياده من ٢٠٠٩💕💕"*
-
-**English:** *"I love you all, visiting the clinic since 2009"*
-
-**Theme:** Long-term loyalty (17+ years)
-
----
-
-#### @mays_barazi
-*"my favorite branch"*
-
-**Theme:** Satisfaction
-
----
-
-#### @walnuwaif
-**Arabic:** *"السالميه الحب الكبير"*
-
-**English:** *"Salmiya - the great love"*
-
-**Branch:** Salmiya  
-**Theme:** Branch loyalty
-
+**Arabic:** في بيان لطب الأسنان، نعمل مع بنك وربة لتوفير حلول تمويل مرنة. نوفر تمويل بدون فوائد بمبالغ تتراوح من 1,000 د.ك إلى 15,000 د.ك، مع فترات سداد من 1 إلى 5 سنوات.
 ---
 
 ## ❓ Frequently Asked Questions (FAQs)
 
-### General Questions
+**General Questions**
 
 **Q: How long has Bayan Dental been serving patients?**
-
 A: Bayan Dental Center has been serving patients in Kuwait for more than 23 years, since 2002. We were one of the first private dental clinics established in Kuwait. Many of our patients have been with us since the beginning, with entire families continuing their care across generations.
 
----
-
 **Q: What makes Bayan Dental different from other clinics?**
-
-A: 
-- 23+ years of trusted service in Kuwait
-- One of the first private dental clinics in Kuwait
-- 30+ specialized doctors across 4 branches
-- Canadian Gold Accreditation
-- Latest dental technologies and equipment
-- Invisalign Platinum Providers
-- Digital journey technology
-- Transparent pricing and treatment plans
-- Multi-generational patient loyalty
-- Comprehensive range of dental services
-
----
+A: 23+ years of trusted service | One of Kuwait's first private dental clinics | 30+ specialized doctors across 4 branches | Canadian Gold Accreditation | Latest dental technologies | Invisalign Platinum Providers | Digital journey technology | Transparent pricing | Multi-generational patient loyalty | Comprehensive range of dental services
 
 **Q: Which branch should I visit?**
-
 A: All 4 branches offer excellent service:
-
 - **Sharq (Al Hamra Tower):** Most specialists, full range of services
 - **Salmiya:** Recently renovated, digital journey technology, 23+ years of patient loyalty
 - **Egaila (Al-Bairaq Tower):** Digital smile preview technology
 - **Jahra:** Implant and surgery specialists
 
-Choose based on location convenience and specific services needed.
-
----
-
 **Q: What are your working hours?**
-
 A: All branches are open **9 AM to 9 PM daily**.
 
----
-
 **Q: Do you accept walk-in patients?**
-
 A: While we recommend booking an appointment in advance to ensure availability, we do accommodate patients. For best service, please call ahead.
 
----
-
 **Q: What languages do your doctors speak?**
-
 A: Our doctors are fluent in both Arabic and English, ensuring comfortable communication for all patients.
 
----
-
-### Services & Treatments
+**Services & Treatments**
 
 **Q: What is the "Digital Journey" for orthodontics?**
-
-A: Our digital journey for teeth alignment is a modern approach that uses advanced technology to:
-- Create 3D digital scans of your teeth
-- Simulate your treatment outcome before starting
-- Track progress digitally throughout treatment
-- Provide clear aligners or customized braces
-- Offer a more comfortable and precise treatment experience
-
-Available at our **Salmiya** and **Egaila** branches.
-
----
+A: Our digital journey uses 3D scans to simulate your treatment outcome before starting, track progress digitally, and provide clear aligners or customized braces. Available at Salmiya and Egaila branches.
 
 **Q: Do you offer clear aligners (تقويم شفاف)?**
-
-A: Yes! We have **Invisalign Platinum Providers** (Dr. Mohammed Al-Yaseen and Dr. Nasser Al-Amiri) who specialize in clear aligner treatments. These are nearly invisible alternatives to traditional braces.
-
----
+A: Yes! We have **Invisalign Platinum Providers** (Dr. Mohammed Al-Yaseen at Sharq, Dr. Nasser Al-Amiri at Salmiya/Egaila) who specialize in clear aligner treatments.
 
 **Q: What is early detection for children's teeth?**
-
-A: We recommend teeth and jaw examination at **age 7** for early detection of potential issues. As we say: "Early detection = Timely correction." This allows us to address problems before they become more complex.
-
----
+A: We recommend teeth and jaw examination at **age 7** for early detection. "Early detection = Timely correction."
 
 **Q: Do you provide emergency dental services?**
-
-A: Yes, we provide dental care for urgent situations such as severe toothache, broken teeth, or dental trauma. Call **1822926** immediately and visit the nearest branch.
-
----
+A: Yes, call **1822926** immediately and visit the nearest branch for urgent situations.
 
 **Q: Can you treat children?**
-
-A: Absolutely! We have dedicated **Pediatric Dentistry specialists** who provide gentle, child-friendly care. Our team is highly professional with children.
-
----
+A: Absolutely! We have dedicated Pediatric Dentistry specialists at Sharq, Egaila, and Jahra branches.
 
 **Q: Do you do dental implants?**
-
-A: Yes, we have multiple implant specialists with 15-20+ years of experience, including American Board certified doctors. We offer:
-- Single tooth implants
-- Full arch implants
-- Implant-supported dentures
-- Bone grafting procedures
-
----
+A: Yes, we have multiple implant specialists with 15-20+ years of experience, including American Board certified doctors. Jahra branch specializes in implants.
 
 **Q: What is Arti Smile?**
-
-A: Arti Smile is a specialized cosmetic dentistry service provided by **Dr. Hanan Arti**, our most featured prosthodontist. It focuses on complete smile transformations using veneers, crowns, and comprehensive aesthetic treatments.
+A: Arti Smile is Dr. Hanan Arti's signature cosmetic dentistry service for complete smile transformations (available at Sharq and Jahra branches).
 
 ---
 
-### Insurance & Payment
+**Insurance & Payment**
 
 **Q: Do you accept insurance?**
-
-A: Yes! We accept **35+ insurance providers** including:
-- Al-Ahleia Insurance
-- MetLife / MedNet
-- GIG (KPC, EQUATE, FAY, Heston)
-- WAPMED network
-- GlobeMed network (18 providers)
-- NAS network
-- And many more
-
----
+A: Yes! We accept **35+ insurance providers** including Al-Ahleia, MetLife/MedNet, GIG (KPC, EQUATE, FAY, Heston), WAPMED network, GlobeMed network (18 providers), NAS network, and many more.
 
 **Q: Do you offer financing options?**
-
 A: Yes! We partner with **Warba Bank** to offer **0% interest financing** for amounts ranging from **KD 1,000 to KD 15,000**, with repayment periods from **1 to 5 years**.
 
----
-
 **Q: How much do treatments cost?**
+A: Treatment costs vary depending on the procedure and individual needs. We provide free consultations during special campaigns, transparent treatment plans, price estimates **before** starting treatment, and no hidden fees. Contact us at **1822926** for specific pricing.
 
-A: Treatment costs vary depending on the procedure and individual needs. We provide:
-- Free consultations during special campaigns
-- Transparent treatment plans
-- Price estimates **before** starting treatment
-- No hidden fees
-
-Contact us at **1822926** for specific pricing.
-
----
-
-### Patient Experience
+**Patient Experience**
 
 **Q: What can I expect during my first visit?**
-
-A: During your first visit:
-1. Complete a patient information form
-2. Undergo a comprehensive dental examination
-3. Receive X-rays if needed
-4. Discuss your dental concerns and goals with the doctor
-5. Receive a personalized treatment plan with price estimate
-6. Schedule follow-up appointments if necessary
-
----
+A: Complete patient form → Comprehensive examination → X-rays if needed → Discuss concerns with doctor → Receive personalized treatment plan with price estimate → Schedule follow-up if necessary.
 
 **Q: Is the clinic clean and hygienic?**
-
-A: Absolutely! We maintain the **highest standards** of cleanliness with:
-- Canadian Gold Accreditation standards
-- Proper sterilization of all equipment
-- Strict infection control protocols
-- Modern, comfortable facilities
-- Regular staff training on hygiene practices
-
----
+A: Absolutely! Canadian Gold Accreditation standards, proper sterilization, strict infection control protocols, modern facilities, and regular staff training.
 
 **Q: Will the treatment be painful?**
-
-A: We prioritize **pain-free comfortable treatments**:
-- Advanced pain management techniques
-- Gentle care approach
-- Modern equipment for minimal discomfort
-- Patient comfort is our priority
+A: We prioritize pain-free comfortable treatments with advanced pain management techniques, gentle care approach, and modern equipment for minimal discomfort.
 
 ---
 
@@ -643,16 +221,10 @@ A: We prioritize **pain-free comfortable treatments**:
 
 ---
 
-## 📱 Social Media & Contact
+## 📱 Contact Information
 
-### Instagram
-- **Main Account:** [@bayandental](https://www.instagram.com/bayandental/) ✓ Verified
-- **Content Focus:** Patient testimonials, treatment showcases, doctor introductions, clinic updates
+**Phone:** 1822926 | **Email:** info@bayandental.com | **Website:** bayandental.com
+**Instagram:** [@bayandental](https://www.instagram.com/bayandental/) ✓ Verified
+**Working Hours:** 9 AM - 9 PM (Daily, all branches)
 
-### Contact Information
-- **Phone:** 1822926
-- **Email:** info@bayandental.com
-- **Website:** bayandental.com
-- **Working Hours:** 9 AM - 9 PM (Daily, all branches)
 
----

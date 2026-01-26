@@ -5,7 +5,7 @@
 
 ## 📍 Branch Information
 
-### Location Details
+Location Details
 - **Branch Name:** Salmiya Branch (السالمية) ⭐ Recently Renovated
 - **Location:** Salmiya, Kuwait
 - **Google Maps:** https://maps.app.goo.gl/jGuEBKk5oFmwidm46
@@ -13,7 +13,7 @@
 - **Working Hours:** 9 AM - 9 PM (Daily)
 - **Medical Director:** Dr. Samer Khaddour
 
-### Branch Features
+Branch Features
 - **Recently renovated with modern facilities**
 - Modern digital facilities
 - Digital journey for orthodontics
@@ -23,7 +23,7 @@
 - Comfortable patient experience from entry to completion
 - 10 doctors available
 
-### Available Specialties
+Available Specialties
 - General Dentistry
 - Endodontics (Root Canal)
 - Orthodontics (Braces & Aligners)
@@ -37,9 +37,9 @@
 
 ## 👨‍⚕️ Medical Team - Salmiya Branch
 
-### 🏅 Leadership
+🏅 Leadership
 
-#### Dr. Samer Khaddour (د. سامر خدور)
+Dr. Samer Khaddour (د. سامر خدور)
 - **Role:** Medical Director, Restorative & Aesthetic Dentistry
 - **Specialization:** Restorative & Aesthetic Dentistry
 - **Instagram:** [@dr.samerkhaddour](https://www.instagram.com/dr.samerkhaddour/) ✓ Verified
@@ -54,9 +54,9 @@
 
 ---
 
-### 🦷 General Practitioner
+## 🦷 General Practitioner
 
-#### Dr. Hiba Al-Banna (د. هبة البنا)
+Dr. Hiba Al-Banna (د. هبة البنا)
 - **Role:** General Practitioner
 - **Specialization:** General Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/1733215881674ec6892a9e94.89957571.jpg
@@ -71,9 +71,9 @@
 
 ---
 
-### 🔬 Endodontist (Root Canal Specialist)
+## 🔬 Endodontist (Root Canal Specialist)
 
-#### Dr. Bassam Rahal (د. بسام رحال)
+Dr. Bassam Rahal (د. بسام رحال)
 - **Role:** Endodontist
 - **Specialization:** Endodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173122234567305b4956f3e8.90474828.jpg
@@ -86,9 +86,9 @@
 
 ---
 
-### 📐 Orthodontists (Teeth Alignment Specialists)
+## 📐 Orthodontists (Teeth Alignment Specialists)
 
-#### Dr. Saitah Al-Ajami (د. سيتاح العجمي)
+Dr. Saitah Al-Ajami (د. سيتاح العجمي)
 - **Role:** Orthodontist
 - **Specialization:** Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173856895467a074fadcb563.74085087.jpg
@@ -101,9 +101,7 @@
   - Orthognathic treatments
   - Digital journey technology
 
----
-
-#### Dr. Nasser Al-Amiri (د. ناصر العميري) ⭐ Invisalign Platinum Provider
+Dr. Nasser Al-Amiri (د. ناصر العميري) ⭐ Invisalign Platinum Provider
 - **Role:** Orthodontist
 - **Specialization:** Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173122301367305de5762f40.21470428.jpg
@@ -129,9 +127,7 @@
   - Digital journey technology
   - See your future smile before treatment
 
----
-
-#### Dr. Subodh Sharma
+Dr. Subodh Sharma
 - **Role:** Orthodontist
 - **Specialization:** Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/1731219677673050dd134e11.34622901.jpg
@@ -145,9 +141,9 @@
 
 ---
 
-### 🏗️ Prosthodontist (Dental Prosthetics & Restorations)
+## 🏗️ Prosthodontist (Dental Prosthetics & Restorations)
 
-#### Dr. Faisal Al-Rashedi (د. فيصل الرشيدي)
+Dr. Faisal Al-Rashedi (د. فيصل الرشيدي)
 - **Role:** Prosthodontist
 - **Specialization:** Prosthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/1731220563673054535c6360.95847172.jpg
@@ -162,9 +158,9 @@
 
 ---
 
-### 🌿 Periodontist & Implantologist (Gum Disease & Implants)
+## 🌿 Periodontist & Implantologist (Gum Disease & Implants)
 
-#### Dr. Faouzi Riachi (د. فوزي رياشي)
+Dr. Faouzi Riachi (د. فوزي رياشي)
 - **Role:** Periodontist & Implantologist
 - **Specialization:** Periodontics, Implantology
 - **Profile Image:** https://admin.bayandental.com/uploads/173856604067a06998a22fa9.81482004.jpg
@@ -197,9 +193,9 @@
 
 ---
 
-### 💎 Aesthetic Dentistry Specialist
+## 💎 Aesthetic Dentistry Specialist
 
-#### Dr. Ayad Nweisser (د. أياد نويصر)
+Dr. Ayad Nweisser (د. أياد نويصر)
 - **Role:** Restorative & Aesthetic Dentistry
 - **Specialization:** Restorative Dentistry, Aesthetic Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/173856570667a0684ade5556.35457761.jpg
@@ -214,9 +210,9 @@
 
 ---
 
-### ⚕️ Oral Surgery Specialist
+## ⚕️ Oral Surgery Specialist
 
-#### Dr. Ahmad Dashti (د. أحمد دشتي)
+Dr. Ahmad Dashti (د. أحمد دشتي)
 - **Role:** Oral Maxillofacial Surgeon
 - **Specialization:** Oral Surgery, Maxillofacial Surgery
 - **Profile Image:** https://admin.bayandental.com/uploads/173122224367305ae38b2593.90005314.jpg
@@ -231,7 +227,7 @@
 
 ## 🦷 Services Available at Salmiya Branch
 
-### Orthodontics (تقويم الأسنان)
+Orthodontics (تقويم الأسنان)
 - Invisalign clear aligners ⭐ Platinum Provider
 - Traditional metal braces
 - Ceramic braces
@@ -240,7 +236,7 @@
 - Digital journey technology
 - See your future smile before treatment
 
-### Aesthetic Dentistry (تجميل الأسنان)
+Aesthetic Dentistry (تجميل الأسنان)
 - Smile makeovers
 - Veneers (قشور)
 - Teeth whitening (تبييض)
@@ -249,7 +245,7 @@
 - Digital smile preview technology
 - Before/after visualization
 
-### General Dentistry (طب الأسنان العام)
+General Dentistry (طب الأسنان العام)
 - Routine dental checkups
 - Teeth cleaning and scaling
 - Cavity fillings
@@ -257,7 +253,7 @@
 - Preventive care
 - Consultation & Diagnosis
 
-### Dental Implants (زراعة الأسنان)
+Dental Implants (زراعة الأسنان)
 - Single tooth implants
 - Full arch implants
 - Implant-supported dentures
@@ -265,7 +261,7 @@
 - Surgical extractions
 - 15+ years experience specialist
 
-### Prosthodontics (التركيبات)
+Prosthodontics (التركيبات)
 - Dental crowns and bridges
 - Complete dentures
 - Partial dentures
@@ -273,14 +269,14 @@
 - Restoring teeth
 - Comprehensive treatment planning
 
-### Endodontics (علاج الجذور)
+Endodontics (علاج الجذور)
 - Root canal treatments
 - Treatment of dental nerve inflammation
 - Dental trauma treatments
 - Endodontic retreatment
 - Advanced pain management
 
-### Periodontics (أمراض اللثة)
+Periodontics (أمراض اللثة)
 - Diagnosis and treatment of periodontic diseases
 - Gum graft surgery
 - Dental crown lengthening
@@ -288,7 +284,7 @@
 - Laser therapy
 - Non-surgical gum treatments
 
-### Oral Surgery (جراحة الفم والفكين)
+Oral Surgery (جراحة الفم والفكين)
 - Surgical extractions
 - Wisdom teeth removal
 - Jaw surgery
@@ -299,14 +295,14 @@
 
 ## 🌟 Branch Highlights
 
-### Specializations
+Specializations
 - **Recently Renovated:** State-of-the-art modern facilities
 - **Digital Journey:** Advanced orthodontic technology
 - **Invisalign Platinum Provider:** Dr. Nasser Al-Amiri
 - **Medical Director:** Dr. Samer Khaddour leading the team
 - **23+ Years of Patient Loyalty:** Multi-generational families
 
-### Technology & Equipment
+Technology & Equipment
 - Modern digital facilities
 - Digital journey for orthodontics
 - State-of-the-art equipment
@@ -315,7 +311,7 @@
 - Advanced pain management
 - Canadian Gold Accreditation standards
 
-### Patient Experience
+Patient Experience
 - Family-friendly environment
 - Comfortable patient experience from entry to completion
 - Recently renovated modern facilities
@@ -323,7 +319,7 @@
 - Price estimates before treatment
 - Bilingual staff (Arabic & English)
 
-### Patient Testimonials
+Patient Testimonials
 - **@manalkashto:** *"My children and I have been treating at Bayan Salmiya for 23 years - a lifetime of memories"*
 - **@walnuwaif:** *"Salmiya - the great love"*
 - Multiple patients praising 23+ years of loyalty

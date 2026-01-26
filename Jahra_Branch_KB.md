@@ -5,20 +5,20 @@
 
 ## 📍 Branch Information
 
-### Location Details
+Location Details
 - **Branch Name:** Jahra Branch (الجهراء)
 - **Location:** Jahra, Kuwait
 - **Google Maps:** https://maps.app.goo.gl/4sHd2t8n1yNHzpW9A
 - **Phone:** 1822926
 - **Working Hours:** 9 AM - 9 PM (Daily)
 
-### Branch Features
+Branch Features
 - Implant specialists
 - Surgery specialists
 - 7 doctors available
 - Specialized in surgical procedures
 
-### Available Specialties
+Available Specialties
 - General Dentistry
 - Pediatric Dentistry
 - Orthodontics (Braces & Aligners)
@@ -29,9 +29,9 @@
 
 ## 👨‍⚕️ Medical Team - Jahra Branch
 
-### 🦷 General Practitioner / Implants & Surgery Specialist
+🦷 General Practitioner / Implants & Surgery Specialist
 
-#### Dr. Abdulwahab Al-Noumas (د. عبدالوهاب النومس)
+Dr. Abdulwahab Al-Noumas (د. عبدالوهاب النومس)
 - **Role:** General Practitioner / Implants & Surgery Specialist
 - **Specialization:** General Dentistry, Implants, Surgery
 - **Profile Image:** https://admin.bayandental.com/uploads/173856957167a07763cf64f5.09611538.jpg
@@ -61,9 +61,9 @@
 
 ---
 
-### 👶 Pediatric Dentistry Specialist
+## 👶 Pediatric Dentistry Specialist
 
-#### Dr. Mohammad Abu Rabie (د. محمد أبو ربيع)
+Dr. Mohammad Abu Rabie (د. محمد أبو ربيع)
 - **Role:** Pediatric Dentist
 - **Specialization:** Pediatric Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/1731221862673059665a51c5.20935770.jpg
@@ -78,9 +78,9 @@
 
 ---
 
-### 📐 Orthodontists (Teeth Alignment Specialists)
+## 📐 Orthodontists (Teeth Alignment Specialists)
 
-#### Dr. Mohammed Al-Kandari (د. محمد الكندري)
+Dr. Mohammed Al-Kandari (د. محمد الكندري)
 - **Role:** Orthodontist
 - **Specialization:** Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/173121937267304faca6f3c3.41506635.jpg
@@ -93,9 +93,7 @@
   - Orthognathic treatments
   - Early detection examination (age 7)
 
----
-
-#### Dr. Subodh Sharma
+Dr. Subodh Sharma
 - **Role:** Orthodontist
 - **Specialization:** Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/1731219677673050dd134e11.34622901.jpg
@@ -108,9 +106,9 @@
 
 ---
 
-### 🏗️ Prosthodontists (Dental Prosthetics & Restorations)
+## 🏗️ Prosthodontists (Dental Prosthetics & Restorations)
 
-#### Dr. Hanan Arti (د. حنان آرتي) ⭐ Most Featured Specialist
+Dr. Hanan Arti (د. حنان آرتي) ⭐ Most Featured Specialist
 - **Role:** Prosthodontist
 - **Specialization:** Prosthodontics, Cosmetic Dentistry
 - **Profile Image:** https://admin.bayandental.com/uploads/1731220447673053df1f84c8.15783408.jpg
@@ -141,9 +139,7 @@
   - Complete & partial dentures
   - Comprehensive treatment planning
 
----
-
-#### Dr. Waleed Al-Yaseen (د. وليد الياسين)
+Dr. Waleed Al-Yaseen (د. وليد الياسين)
 - **Role:** Prosthodontist
 - **Specialization:** Prosthodontics, Dental Implants
 - **Profile Image:** https://admin.bayandental.com/uploads/173121889667304dd0b67ac0.30457621.jpg
@@ -179,9 +175,9 @@
 
 ---
 
-### 🌿 Periodontist & Implantologist (Gum Disease & Implants)
+## 🌿 Periodontist & Implantologist (Gum Disease & Implants)
 
-#### Dr. Ahmad Kamal (د. أحمد كمال)
+Dr. Ahmad Kamal (د. أحمد كمال)
 - **Role:** Periodontist & Implantologist / Orthodontist
 - **Specialization:** Periodontics, Implantology, Orthodontics
 - **Profile Image:** https://admin.bayandental.com/uploads/17324308606742cc0c579b67.68802684.jpg
@@ -199,21 +195,21 @@
 
 ## 🦷 Services Available at Jahra Branch
 
-### Orthodontics (تقويم الأسنان)
+Orthodontics (تقويم الأسنان)
 - Traditional metal braces
 - Ceramic braces
 - Clear aligners
 - Orthognathic (corrective jaw) treatments
 - Early detection examination (age 7)
 
-### Cosmetic Dentistry (تجميل الأسنان)
+Cosmetic Dentistry (تجميل الأسنان)
 - Smile makeovers
 - Veneers (قشور)
 - Teeth whitening (تبييض)
 - Cosmetic fillings
 - Arti Smile transformations
 
-### General Dentistry (طب الأسنان العام)
+General Dentistry (طب الأسنان العام)
 - Routine dental checkups
 - Teeth cleaning and scaling
 - Cavity fillings
@@ -221,7 +217,7 @@
 - Preventive care
 - Consultation & Diagnosis
 
-### Dental Implants (زراعة الأسنان) ⭐ Specialty Focus
+Dental Implants (زراعة الأسنان) ⭐ Specialty Focus
 - Single tooth implants
 - Full arch implants
 - Implant-supported dentures
@@ -230,7 +226,7 @@
 - 20+ years experience specialists
 - American Board certified options
 
-### Prosthodontics (التركيبات)
+Prosthodontics (التركيبات)
 - Dental crowns and bridges
 - Complete dentures
 - Partial dentures
@@ -238,13 +234,13 @@
 - Restoring teeth
 - Comprehensive treatment planning
 
-### Periodontics (أمراض اللثة)
+Periodontics (أمراض اللثة)
 - Diagnosis and treatment of periodontic diseases
 - Gum graft surgery
 - Dental crown lengthening
 - Treatment of gum disease
 
-### Pediatric Dentistry (طب أسنان الأطفال)
+Pediatric Dentistry (طب أسنان الأطفال)
 - Children's dental checkups
 - Cavity prevention and treatment
 - Early orthodontic assessment (age 7)
@@ -252,7 +248,7 @@
 - Fluoride treatments
 - Dental sealants
 
-### Oral Surgery (جراحة الفم والفكين) ⭐ Specialty Focus
+Oral Surgery (جراحة الفم والفكين) ⭐ Specialty Focus
 - Surgical extractions
 - Wisdom teeth removal
 - Dental trauma surgery
@@ -262,20 +258,20 @@
 
 ## 🌟 Branch Highlights
 
-### Specializations
+Specializations
 - **Implant Specialists:** Focus on dental implant procedures
 - **Surgery Specialists:** Specialized surgical procedures
 - **Arti Smile:** Dr. Hanan Arti's signature transformations
 - **American Board Certified:** Dr. Waleed Al-Yaseen (20+ years)
 - **Multi-Specialty:** Dr. Ahmad Kamal (Periodontics, Implantology, Orthodontics)
 
-### Technology & Equipment
+Technology & Equipment
 - Advanced surgical equipment
 - Modern implant technology
 - Sterilization protocols
 - Canadian Gold Accreditation standards
 
-### Patient Experience
+Patient Experience
 - Specialized in implants and surgery
 - Experienced surgical team
 - Transparent treatment plans
